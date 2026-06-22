@@ -1,0 +1,35 @@
+body{
+background:#0f172a;
+color:white;
+font-family:Arial;
+}
+
+.App{
+text-align:center;
+}
+
+.cards{
+display:flex;
+justify-content:center;
+gap:30px;
+margin-bottom:30px;
+}
+
+.card{
+width:250px;
+padding:25px;
+border-radius:20px;
+box-shadow:0px 0px 20px gray;
+}
+
+.cpu{
+background:linear-gradient(to right,#2563eb,#06b6d4);
+}
+
+.memory{
+background:linear-gradient(to right,#16a34a,#22c55e);
+}
+
+h1{
+font-size:40px;
+}
