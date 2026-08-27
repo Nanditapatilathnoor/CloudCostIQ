@@ -112,6 +112,3 @@ I worked on the analysis of cloud storage snapshots and the investigation of pot
 * Implement stronger snapshot lifecycle monitoring.
 * Evaluate additional cloud storage services.
 
-## Disclaimer
-
-This project was developed for educational and research purposes to study cloud security and data persistence. It should only be performed on cloud resources and data for which proper authorization has been obtained.
